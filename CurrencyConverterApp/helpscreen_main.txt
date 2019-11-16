@@ -1,0 +1,7 @@
+How to use the app.
+
+Welcome to the Currency Conversion Application, a devision of Markrosoft. Be all you can be. 
+
+Choose an option of conversion by clicking on one of the four buttons, in the middle.
+
+By clicking one of the buttons, you will be taken to another form to choose enter your number and conversion type. 

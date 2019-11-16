@@ -1,0 +1,11 @@
+Welcome to the Currency Conversion Application, a product by Markrosoft. "Be all you can be my dudes, and then some. Ya fel me dowg?", Mark "li script" Will I Izzay (CEO - Markrosoft inc. ). In associations with Clinux inc. "When was the last time you didn't see words in a sentence?",  CLint "li WAN" Washington. In partnership with the Michael-High Club. "We pull up wif some kicks and pumps, ready to unload on you fools and punks". Michael "Mas Rude Boi" Wazowski.
+
+--For Menu--
+Choose one of the options for conversion by clicking on one of the buttons.
+Once a button has been clicked, you will be taken to another form to convert a number to choose, on that form. 
+
+--For Conversion--
+Choose an option of conversion by clicking on one of the radio button on the right.
+Enter your number to convert in the text box on the left.
+Click the "Calculate" button when you have entered your number.
+The result of the conversion will appear in the box below the button. 
